@@ -1,0 +1,13 @@
+[dw]
+host=dev-dw.drivin.io
+user=mpetukhova
+password=mpetukhova11
+port=7654
+dbname=prd_drivin
+
+[dwp]
+host=dw.drivin.io
+user=tkozlowski
+password=tkozlowski
+port=7654
+dbname=prd_drivin
